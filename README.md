@@ -1,6 +1,7 @@
 # minesweeper
 This project is a an assembly model of the game "minesweeper".
 At first, the program will print to the screen an explanation of how to play the game, after a few seconds the explanation will disappear and in its place the game will start. - the image of the explanation: (https://github.com/nahoom567/minesweeper/assets/128990420/4986aced-c9e5-4b1c-bfa3-769c6fb744be)
+
 Then, the program will create mouse borders so that the user will be able to move the mouse only in the places where the game map is located. In addition to creating the borders, the program prints the starting position, with the help of the position the user should be able to understand which squares on the screen represent bombs and which numbers.
 The user is then supposed to figure out which squares next to the squares they solved represent bombs and which of them are numbers and so on.
 In addition, if the player wants to mark the squares they think are a bomb, so that they remember that those squares represent a bombC later, they can right-click and the letter F (to represent Flag) will immediately be printed to the screen in the square that was pressed.
